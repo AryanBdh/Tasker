@@ -30,7 +30,7 @@ const [tasks, setTasks] = useState([]);
         <table className="task-table">
           <thead>
             <tr>
-              <th>#</th>
+              <th>S.N</th>
               <th>Task</th>
               <th>Action</th>
             </tr>
